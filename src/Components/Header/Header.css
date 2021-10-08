@@ -1,0 +1,23 @@
+
+.header-container{
+    background-image: url("https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fstartswithabang%2Ffiles%2F2016%2F07%2Fwormhole-739872_960_720.jpg"),
+      linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+    height: 600px;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .title {
+    padding-top: 100px;
+    color: white;
+    font-weight: bold;   
+    font-size: 80px;
+  }
+  .about-btn {
+    border: 1px solid white;
+    padding: 17px 35px;
+    color: white;
+    background-image: linear-gradient( #03b411, #002a00);
+  }

@@ -1,0 +1,51 @@
+
+.courses-container{
+    padding: 100px;
+    background: whitesmoke;
+}
+h1{
+    color: #00d812;
+    font-size: 60px;
+}
+.search-btn {
+    border: 1px solid white;
+    padding: 10px 35px;
+    color: white;
+    background-image: linear-gradient(#00d812, #002a00);
+}
+
+
+.card{
+    border:  2px solid #03b411;
+    width: 270px;
+
+
+}
+.card-img{
+  padding-bottom: 20px;
+}
+.card-img img{
+    width: 100%;
+    height: 150px;
+    border-bottom: 2px solid #00d812;
+    overflow: hidden;
+}
+
+
+h3{
+    color: #00d812;
+}
+h6{
+    color: #03b411;
+}
+p{
+    color: gray;
+}
+.enroll-btn{
+    border: 1px solid white;
+    padding: 10px 93px;
+    overflow: hidden;
+    color: white;
+    background-image: linear-gradient(#00d812, #002a00);
+
+}

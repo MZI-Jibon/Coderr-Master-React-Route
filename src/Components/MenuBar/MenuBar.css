@@ -1,0 +1,22 @@
+.MenuBar-container{
+    background-image: linear-gradient(rgba(0, 231, 15, 0.9), rgba(3, 41, 0, 0.185));
+    margin-top: 0px;
+    padding: 10px 0px;
+
+    
+}
+.items {
+    margin-top: 20px;
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+    
+  }
+  .items:hover {
+    color: lightgreen;
+  }

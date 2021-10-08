@@ -1,0 +1,11 @@
+.contact{
+        height: 500px;
+        padding: 100px;
+        background: whitesmoke;
+}
+.contact-col{
+        border: 2px solid rgb(0, 175, 0);
+        border-radius: 5px;
+        margin: 20px;
+        padding: 20px;
+}

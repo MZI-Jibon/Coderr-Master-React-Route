@@ -1,0 +1,15 @@
+.sec1{
+    height: 300px;
+    padding-top: 120px;
+    /* border: 2px solid #03b411; */
+    background-image: linear-gradient(rgb(4, 20, 0), rgba(14, 214, 0, 0.61));
+    width: 100%;
+  
+    color: white;
+}
+.container{
+
+}
+.sec1 p{
+    color: black;
+}
