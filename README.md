@@ -2,7 +2,7 @@
 # Coder Master
 
 ## 🔗 Links
-### Live site link :  https://dazzling-kepler-91bdba.netlify.app/
+### Live site link :  https://coder-master-react.netlify.app/
 
 ## 🚀 About This Site
 Coder Master is an online skill development platform. You can enroll free and premium course from here.
